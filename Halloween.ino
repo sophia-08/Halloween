@@ -5,7 +5,7 @@
 #include <FastLED.h>
 _FL_DEFPIN(0, 2, 0);  // P0.25 -- D00 /  UART RX
 // How many leds in your strip?
-#define NUM_LEDS 84
+#define NUM_LEDS 24
 
 // For led chips like Neopixels, which have a data line, ground, and power, you just
 // need to define DATA_PIN.  For led chipsets that are SPI based (four wires - data, clock,
